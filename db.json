@@ -1,1 +1,11 @@
-curl https://api.e.qq.com/v1.3/promoted_objects/get?access_token=59dde05287c93a3fcd0e14853f0937f9&timestamp=1682239570&nonce=1&account_id=30233908&page=1&page_size=10
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
