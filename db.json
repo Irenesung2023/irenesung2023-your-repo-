@@ -1,11 +1,37 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "code": 0,
+    "message": "",
+    "message_cn": "",
+    "data": {
+        "list": [
+            {
+                "date": "2017-05-01",
+                "campaign_id": "<CAMPAIGN_ID>",
+                "adgroup_id": "<ADGROUP_ID>",
+                "ad_id": "<AD_ID>",
+                "cost": 1200,
+                "image_click": 0,
+                "like_or_comment": 0,
+                "app_payment_count": 0,
+                "app_payment_amount": 0,
+                "app_installation": 0,
+                "activation": 0,
+                "click": 1200,
+                "conversion": 0,
+                "download": 0,
+                "follow": 0,
+                "impression": 12000,
+                "order_placement": 0,
+                "register": 0,
+                "reservation": 0,
+                "share": 0
+            }
+        ],
+        "page_info": {
+            "page": 1,
+            "page_size": 10,
+            "total_number": 1,
+            "total_page": 1
+        }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
