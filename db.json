@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "promoted_objects": [
     {
       "id": 1,
-      "title": "hello"
+      "promoted_object_type": "PROMOTED_OBJECT_TYPE_APP_IOS",
+      "account_id": 30233908
+    },
+    {
+      "id": 2,
+      "promoted_object_type": "PROMOTED_OBJECT_TYPE_APP_IOS",
+      "account_id": 30233908
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
